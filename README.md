@@ -2,7 +2,7 @@
 
 Welcome, Traveler, to the ultimate communication nexus. This isn't just a translator; it's a bridge between languages, signals, and eras. Whether you're deciphering ancient Morse code or speaking to a new friend across the globe, this tool ensures your message is always understood.
 
-![Welcome Screen](image_97ec6f.jpg)
+![Welcome Screen](WELCOME-SCREEN.jpg)
 
 ---
 
